@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445782654 source:/media/mummyding/编程资料/源码/C_C++/算法/DivideInteger/main.cpp
+	<iostream>
+	<cstdio>
+
